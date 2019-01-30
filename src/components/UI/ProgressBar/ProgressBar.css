@@ -1,0 +1,20 @@
+.progressBar {
+  background-color: lightgray;
+  border-radius: 1.25em;
+  width: 100%;
+  height: 16px;
+  display: inline-block;
+  color:#ffffff;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+.progressValue {
+  background-color: #ec5169;
+  transition: 1s all linear;
+  border-radius: 1.25em;
+  height: 16px;
+  display: inline-block;
+  text-align: center;
+  padding-left: 10px;
+}
