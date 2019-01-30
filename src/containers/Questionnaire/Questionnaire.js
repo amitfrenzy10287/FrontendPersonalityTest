@@ -31,7 +31,7 @@ class Questionnaire extends React.Component{
 	constructor(props){
 		super(props);
 		this.state = {			
-			activeQuestion: 23,
+			activeQuestion: 1,
 			showCondition:false,
 			barWidth:0,
 			totalQuestions: 0,
